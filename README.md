@@ -4,7 +4,7 @@
 
     Linguagem usada: Python
  
-# Como executar o programa:
+ # Como executar o programa:
 
 O programa pede para escolher o tipo de imóvel, 🏠 🏢 
 o consumo de água em m3,💧
