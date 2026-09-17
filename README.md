@@ -8,7 +8,7 @@
 
 O programa pede para escolher o tipo de imóvel, 🏠 🏢 
 o consumo de água em m3,💧
-e finaliza avaliando se o consumo foi econômico, dentro do esperado ou se precisa de medidas economicas.
+e finaliza avaliando se o consumo foi econômico, dentro do esperado ou se precisa de medidas de econômia.
 
 
  <!-- Logo do Python centralizado -->
