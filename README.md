@@ -2,7 +2,7 @@
 
 💡 Este projeto foi criado para praticar os Operadores Lógicos
 
-  Linguagem usada: Python
+    Linguagem usada: Python
  
 # Como executar o programa:
 
